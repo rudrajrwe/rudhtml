@@ -1,0 +1,117 @@
+.topcontainer{
+    background-color: 
+    #EAF6F6;
+    margin-top: 0px;
+    position: relative;
+    padding-top: 100px;
+}
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+}
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    color: #66BFBF;
+    line-height: 50px;
+}
+.middle-container{
+    background-color: #E8E8E8;
+   
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 40px 0 20px;
+   
+}
+.botmcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.topcloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.skill2{
+    width: 25%;
+    margin-left: 30px;
+    float: right;
+}
+.skill{
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+}
+.skill3{
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+}
+}
+.rj{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal; 
+}
+h3{
+    color:  #11999E;
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal; 
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: #66BFBF;
+    width: 5%;
+}
+.btn {
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    font-family: 'Kanit', sans-serif;
+    color: #f5f5f5;
+    font-size: 16px;
+    background: #4826cc;
+    padding: 7px 8px 7px 6px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #69c6ff;
+    text-decoration: none;
+  }
+
+    .contact-me{
+        padding-bottom: 16px;
+    }
+.footer-link{
+    color: #11999E;
+    font-family: 'Kanit', sans-serif;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: white;
+}
+.insta{
+    color: #11999E;
+    font-family: 'Kanit', sans-serif;
+}
+.end{
+    color: white;
+    font-family: 'Kanit', sans-serif;
+}
